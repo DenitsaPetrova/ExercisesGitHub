@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-    class FallenInLove
+    class FallenInLoveFOREVERALONE
     {
         static void Main()
         {
+//ALL SINGLE LADIES
             int n = int.Parse(Console.ReadLine());
             var MidDots = 2;
             var OutDots = 2*n-2;

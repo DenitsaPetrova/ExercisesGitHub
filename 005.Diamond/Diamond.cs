@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace _005.Diamond
 {
-    class Diamond
+    class SHINEBRIGHTASDiamond
     {
         static void Main()
         {
+            //TUPOTIQ BRAT
             var n = int.Parse(Console.ReadLine());
             var points = new string('.', n );
             var star = new string('*', 3 * n );

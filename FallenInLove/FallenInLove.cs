@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-    class FallenInLove2121212
+    class FallenInLoveFOREVERALONE
     {
         static void Main()
         {
-//000hh000h0h0h0h0h0
             int n = int.Parse(Console.ReadLine());
             var MidDots = 2;
             var OutDots = 2*n-2;
